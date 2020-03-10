@@ -1,0 +1,26 @@
+[
+	{
+		"id": "1",
+		"name": "Hendrika",
+		"surname": "Hulpje",
+		"gender": "female",
+		"region": "Netherlands",
+		"age": 22,
+		"title": "mrs",
+		"phone": "(574) 559 8419",
+		"isIll": false,
+		"email": "hendrika.hulpje@tandartspraktijkbvt.nl"
+	},
+	{
+		"id": "2",
+		"name": "Steven",
+		"surname": "Sidekick",
+		"gender": "male",
+		"region": "Netherlands",
+		"age": 27,
+		"title": "mr",
+		"phone": "(574) 559 8419",
+		"isIll": false,
+		"email": "steven.sidekick@tandartspraktijkbvt.nl"
+	}
+]
